@@ -1,3 +1,5 @@
+ SimpleHTTPServer module defines the following class:
+
 get
 
 set
