@@ -3,3 +3,7 @@ get
 set
  
 post
+
+server
+
+client
